@@ -130,7 +130,8 @@ int main(int argc, char *argv[])
 			{
 				while(choice != 99)
 				{
-
+					puts("Welcome to my world!!!");
+					scanf("%d",&choice);
 				}
 				break;
 			}
